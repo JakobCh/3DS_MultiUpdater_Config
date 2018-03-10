@@ -11,6 +11,7 @@
 			"inarchive": "3DS_MultiUpdater_Config-master/config\\.json",
 			"path": "/3ds/MultiUpdater/config.json"
 		},
+		
 		{
 			"name": "Anemone3DS (cia)",
 			"url": "https://github.com/astronautlevel2/Anemone3DS",
@@ -23,6 +24,7 @@
 			"inrelease": "Anemone3DS\\.3dsx",
 			"path": "/3ds/Anemone3DS/Anemone3DS.3dsx"
 		},
+		
 		{
 			"name": "3DSident (cia)",
 			"url": "https://github.com/joel16/3DSident",
@@ -35,6 +37,7 @@
 			"inrelease": "3DSident-GUI\\.3dsx",
 			"path": "/3ds/3DSident-GUI/3DSident-GUI.3dsx"
 		},
+		
 		{
 			"name": "Checkpoint (cia)",
 			"url": "https://github.com/BernardoGiordano/Checkpoint",
@@ -47,6 +50,7 @@
 			"inrelease": "Checkpoint\\.3dsx",
 			"path": "/3ds/Checkpoint/Checkpoint.3dsx"
 		},
+		
 		{
 			"name": "3DShell (cia)",
 			"url": "https://github.com/joel16/3DShell",
@@ -59,6 +63,7 @@
 			"inrelease": "3DShell\\.3dsx",
 			"path": "/3ds/3DShell/3DShell.3dsx"
 		},
+		
 		{
 			"name": "3DS Recovery Tool (cia)",
 			"url": "https://github.com/joel16/3DS-Recovery-Tool",
@@ -71,6 +76,7 @@
 			"inrelease": "3DS_Recovery_Tool\\.3dsx",
 			"path": "/3ds/3DS_Recovery_Tool/3DS_Recovery_Tool.3dsx"
 		},
+		
 		{
 			"name": "FBI (cia)",
 			"url": "https://github.com/Steveice10/FBI",
@@ -82,6 +88,13 @@
 			"url": "https://github.com/Steveice10/FBI",
 			"inrelease": "FBI\\.3dsx",
 			"path": "/3ds/FBI/FBI.3dsx"
+		},
+		
+		{
+			"name": "PKSM (cia)",
+			"url": "https://github.com/BernardoGiordano/PKSM",
+			"inrelease": "PKSM\\.cia",
+			"path": "/cias/PKSM.cia"
 		},
 		
 		
