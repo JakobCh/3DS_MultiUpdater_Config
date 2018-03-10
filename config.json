@@ -42,6 +42,34 @@
 			"path": "/cias/Checkpoint.cia"
 		},
 		{
+			"name": "Checkpoint (3dsx)",
+			"url": "https://github.com/BernardoGiordano/Checkpoint",
+			"inrelease": "Checkpoint\\.3dsx",
+			"path": "/3ds/Checkpoint/Checkpoint.3dsx"
+		},
+		{
+			"name": "3DShell (cia)",
+			"url": "https://github.com/joel16/3DShell",
+			"inrelease": "3DShell\\.cia",
+			"path": "/cias/3DShell.cia"
+		},
+		{
+			"name": "3DS Recovery Tool (cia)",
+			"url": "https://github.com/joel16/3DS-Recovery-Tool",
+			"inrelease": "3DS_Recovery_Tool\\.cia",
+			"path": "/cias/3DS_Recovery_Tool.cia"
+		},
+		{
+			"name": "FBI (cia)",
+			"url": "https://github.com/Steveice10/FBI",
+			"inrelease": "FBI\\.cia",
+			"path": "/cias/FBI.cia"
+		},
+		
+		
+		
+		
+		{
 			"name": "GodMode9",
 			"url": "https://github.com/d0k3/GodMode9",
 			"inrelease": "GodMode9.*\\.zip",
@@ -67,30 +95,7 @@
 			"inrelease": "Luma3DS.*\\.7z",
 			"inarchive": "boot\\.firm",
 			"path": "ctrnand:/boot.firm"
-		},
-		{
-			"name": "3DSident (cia)",
-			"url": "https://github.com/joel16/3DSident",
-			"inrelease": "3DSident-GUI\\.cia",
-			"path": "/cias/3DSident-GUI.cia"
-		},
-		{
-			"name": "3DShell (cia)",
-			"url": "https://github.com/joel16/3DShell",
-			"inrelease": "3DShell\\.cia",
-			"path": "/cias/3DShell.cia"
-		},
-		{
-			"name": "3DS Recovery Tool (cia)",
-			"url": "https://github.com/joel16/3DS-Recovery-Tool",
-			"inrelease": "3DS_Recovery_Tool\\.cia",
-			"path": "/cias/3DS_Recovery_Tool.cia"
-		},
-		{
-			"name": "FBI (cia)",
-			"url": "https://github.com/Steveice10/FBI",
-			"inrelease": "FBI\\.cia",
-			"path": "/cias/FBI.cia"
 		}
+		
 	]
 }
