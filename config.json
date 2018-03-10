@@ -18,10 +18,22 @@
 			"path": "/cias/Anemone3DS.cia"
 		},
 		{
+			"name": "Anemone3DS (3dsx)",
+			"url": "https://github.com/astronautlevel2/Anemone3DS",
+			"inrelease": "Anemone3DS\\.3dsx",
+			"path": "/3ds/Anemone3DS/Anemone3DS.3dsx"
+		},
+		{
 			"name": "3DSident (cia)",
 			"url": "https://github.com/joel16/3DSident",
 			"inrelease": "3DSident-GUI\\.cia",
 			"path": "/cias/3DSident-GUI.cia"
+		},
+		{
+			"name": "3DSident (3dsx)",
+			"url": "https://github.com/joel16/3DSident",
+			"inrelease": "3DSident-GUI\\.3dsx",
+			"path": "/3ds/3DSident-GUI/3DSident-GUI.3dsx"
 		},
 		{
 			"name": "Checkpoint (cia)",
