@@ -6,6 +6,12 @@
 	},
 	"entries": [
 		{
+			"name": "MultiUpdater Config",
+			"url": "https://github.com/JakobCh/3DS_MultiUpdater_Config/archive/master.zip",
+			"inarchive": "3DS_MultiUpdater_Config-master/config\\.json",
+			"path": "/3ds/MultiUpdater/config.json"
+		},
+		{
 			"name": "Anemone3DS",
 			"url": "https://github.com/astronautlevel2/Anemone3DS",
 			"inrelease": "Anemone3DS\\.cia",
