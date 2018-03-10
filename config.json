@@ -54,16 +54,34 @@
 			"path": "/cias/3DShell.cia"
 		},
 		{
+			"name": "3DShell (3dsx)",
+			"url": "https://github.com/joel16/3DShell",
+			"inrelease": "3DShell\\.3dsx",
+			"path": "/3ds/3DShell/3DShell.3dsx"
+		},
+		{
 			"name": "3DS Recovery Tool (cia)",
 			"url": "https://github.com/joel16/3DS-Recovery-Tool",
 			"inrelease": "3DS_Recovery_Tool\\.cia",
 			"path": "/cias/3DS_Recovery_Tool.cia"
 		},
 		{
+			"name": "3DS Recovery Tool (3dsx)",
+			"url": "https://github.com/joel16/3DS-Recovery-Tool",
+			"inrelease": "3DS_Recovery_Tool\\.3dsx",
+			"path": "/3ds/3DS_Recovery_Tool/3DS_Recovery_Tool.3dsx"
+		},
+		{
 			"name": "FBI (cia)",
 			"url": "https://github.com/Steveice10/FBI",
 			"inrelease": "FBI\\.cia",
 			"path": "/cias/FBI.cia"
+		},
+		{
+			"name": "FBI (3dsx)",
+			"url": "https://github.com/Steveice10/FBI",
+			"inrelease": "FBI\\.3dsx",
+			"path": "/3ds/FBI/FBI.3dsx"
 		},
 		
 		
