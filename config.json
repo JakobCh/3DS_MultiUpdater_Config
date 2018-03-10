@@ -96,6 +96,13 @@
 			"inrelease": "PKSM\\.cia",
 			"path": "/cias/PKSM.cia"
 		},
+		{
+			"name": "PKSM (3dsx)",
+			"url": "https://github.com/BernardoGiordano/PKSM",
+			"inrelease": "PKSM\\.zip",
+			"inarchive": "rosalina/PKSM\\.3dsx",
+			"path": "/3ds/PKSM/PKSM.3dsx"
+		},
 		
 		
 		
