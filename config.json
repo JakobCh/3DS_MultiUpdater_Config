@@ -13,6 +13,22 @@
 		},
 		
 		{
+			"name": "MultiUpdater (cia)",
+			"url": "https://github.com/LiquidFenrir/MultiUpdater",
+			"inrelease": "MultiUpdater-v*\\.zip",
+			"inarchive": "MultiUpdater\\.cia",
+			"path": "/cias/MultiUpdater.cia"
+		},
+		{
+			"name": "MultiUpdater (3dsx)",
+			"url": "https://github.com/LiquidFenrir/MultiUpdater",
+			"inrelease": "MultiUpdater-v*\\.zip",
+			"inarchive": "3ds/MultiUpdater/MultiUpdater\\.3dsx",
+			"path": "/3ds/MultiUpdater/MultiUpdater.3dsx"
+		},
+		
+		
+		{
 			"name": "Anemone3DS (cia)",
 			"url": "https://github.com/astronautlevel2/Anemone3DS",
 			"inrelease": "Anemone3DS\\.cia",
