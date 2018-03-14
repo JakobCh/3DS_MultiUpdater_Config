@@ -131,8 +131,8 @@
 		},
 		{
 			"name": "Luma3DS (latest commit)",
-			"url": "https://astronautlevel2.github.io/Luma3DS/latest.zip",
-			"inarchive": "out/boot\\.firm",
+			"url": "https://github.com/Pirater12/luma-nightlies/releases",
+			"inrelease": "boot.*\\.firm",
 			"path": "/boot.firm"
 		},
 		{
