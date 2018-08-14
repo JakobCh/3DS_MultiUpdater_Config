@@ -81,6 +81,13 @@
 			"path": "/cias/PKSM.cia"
 		},
 		
+		{
+			"name": "Homebr3w (cia)",
+			"url": "https://github.com/Wolvan/Homebr3w",
+			"inrelease": "Homebr3w\\.cia",
+			"path": "/cias/Homebr3w.cia"
+		},
+		
 		
 		{
 			"name": "--------------------"
